@@ -3,7 +3,7 @@
 ![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkyenVza255MGtzMHo3cXZmODRocDZiMXphaWt5Z2p6ODN5ejFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 [![GitHub followers](https://img.shields.io/github/followers/Alejandroortega2002?label=Seguidores&style=social)](https://github.com/Alejandroortega2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-green?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-ortega-b20737249/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-green?style=flat&logo=linkedin)](https://www.linkedin.com/in/-alejandroortega/)
 [![Currículum](https://img.shields.io/badge/Currículum-Descargar-success?style=flat&logo=adobeacrobatreader)](https://github.com/Alejandroortega2002/cv/raw/main/Alejandro_Ortega_CV.pdf)
 
 ¡Bienvenid@ a mi perfil de GitHub! 🎉 Soy un desarrollador apasionado por construir aplicaciones web, móviles y soluciones de software innovadoras. Aquí encontrarás mis proyectos, donde combino diferentes tecnologías para resolver problemas y crear experiencias únicas.
@@ -18,8 +18,8 @@
   - **Frameworks:** Angular, Ionic.  
 - 🎯 **Intereses:** Desarrollo de aplicaciones web/móviles y diseño de bases de datos eficientes.  
 - 📫 **Cómo contactarme:**  
-  - [LinkedIn](https://www.linkedin.com/in/alejandro-ortega-b20737249/)  
-  - [Correo electrónico](mailto:alejandroortega2002@gmail.com)  
+  - [LinkedIn](https://www.linkedin.com/in/-alejandroortega/)  
+  - [Correo electrónico](mailto:alexaon.ao@gmail.com)  
 
 ---
 
