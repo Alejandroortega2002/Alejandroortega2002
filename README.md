@@ -41,17 +41,53 @@
 
 ## 💻 Proyectos Destacados  
 
-### 📱 Aplicaciones móviles  
-- [**App de Gestión de Tareas**](https://github.com/Alejandroortega2002/GestionTareas):  
-  Una aplicación móvil desarrollada con **Ionic** y **Firebase** para gestionar tareas personales y sincronizarlas en tiempo real.
+### 🏠 **ZEN-SORIUM**  
+**Descripción:**  
+ZEN-SORIUM es una aplicación de domótica diseñada para mejorar la calidad de vida de personas con movilidad reducida. Este sistema utiliza tecnología avanzada para automatizar tareas como el control de luces, temperatura, humedad y persianas, brindando mayor autonomía y comodidad.  
 
-### 🌐 Desarrollo web  
-- [**Tienda Online con Angular**](https://github.com/Alejandroortega2002/Tienda-Angular):  
-  Un e-commerce completo desarrollado con **Angular** y bases de datos **MariaDB**, con soporte para pagos en línea y gestión de inventario.
+**🌟 Características principales:**  
+- **Automatización Inteligente:** Control automático de luces, temperatura, humedad y persianas basándose en sensores.  
+- **Roles Personalizados:**  
+  - **Usuario:** Acceso a las funciones básicas.  
+  - **Administrador:** Gestión de dispositivos, usuarios y permisos.  
+  - **Familiar:** Comunicación en tiempo real y supervisión remota.  
+- **Sistema de Comunicación:** Chat en tiempo real entre usuarios relacionados.  
+- **Gestión de Dispositivos:** Administración y monitoreo en tiempo real de sensores y dispositivos del hogar.  
 
-### 🛠️ Herramientas de automatización  
-- [**Generador de Informes**](https://github.com/Alejandroortega2002/GeneradorInformes):  
-  Proyecto en **Python** que automatiza la generación de informes PDF con datos obtenidos desde bases de datos **MongoDB**.
+🔗 **Repositorio:** [ZEN-SORIUM](https://github.com/Alejandroortega2002/Proyecto_Domotica_ZENSORIUM)
+
+---
+
+### 📱 **JobSeeker**  
+**Descripción:**  
+JobSeeker es una aplicación móvil desarrollada para facilitar el acceso a oportunidades laborales confiables y seguras, diseñada especialmente para jóvenes y personas en búsqueda urgente de empleo. También permite a los usuarios ofrecer sus propios servicios, fomentando así la creación de empleo.  
+
+**🎯 Propósito del proyecto:**  
+- Resolver la falta de organización y seriedad en ofertas laborales publicadas en redes sociales.  
+- Proveer un entorno seguro y confiable para publicar y encontrar empleos.  
+
+**✨ Funcionalidades principales:**  
+- **Exploración de Empleos:** Encuentra y postúlate a trabajos cercanos según tu ubicación.  
+- **Publicación de Servicios:** Ofrece tus habilidades y genera ingresos adicionales.  
+- **Entorno Seguro:** Filtrado y validación de ofertas para garantizar calidad.  
+
+🔗 **Repositorio:** [JobSeeker](https://github.com/Alejandroortega2002/AppJobSeeker_TFG_Grado_Superior)
+
+---
+
+### 🎬 **Sistema de Recomendación en Python**  
+**Descripción:**  
+Este proyecto es un sistema de recomendación de películas desarrollado en Python, que utiliza algoritmos de aprendizaje automático para proporcionar recomendaciones personalizadas según los intereses de los usuarios.  
+
+**🔧 Características:**  
+- **Algoritmos de Recomendación:** Incluye técnicas como filtrado colaborativo y sistemas basados en contenido.  
+- **Dataset Enriquecido:** Información adicional como imágenes y datos clave de las películas.  
+- **Interfaz Modular:** Sistema bien organizado, dividido en módulos independientes.  
+- **Soporte Multiusuario:** Generación de recomendaciones personalizadas para diferentes perfiles.  
+
+🔗 **Repositorio:** [Sistema de Recomendación en Python](https://github.com/Alejandroortega2002/Sistema_Recomendacion_Python_Grupo_2)
+
+---
 
 *Mira más de mis proyectos en la pestaña [repositorios](https://github.com/Alejandroortega2002?tab=repositories).*
 
