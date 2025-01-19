@@ -106,7 +106,8 @@ Este proyecto es un sistema de recomendación de películas desarrollado en Pyth
 ## 📄 Currículum  
 Puedes descargar mi currículum actualizado haciendo clic en el botón a continuación:  
 
-[![Currículum](https://img.shields.io/badge/Currículum-Descargar-success?style=flat&logo=adobeacrobatreader)](https://github.com/Alejandroortega2002/cv/raw/main/Alejandro_Ortega_CV.pdf)
+[![Currículum](https://img.shields.io/badge/Currículum-Descargar-success?style=flat&logo=adobeacrobatreader)](https://github.com/Alejandroortega2002/Alejandroortega2002/raw/main/CV_AlejandroOrtegaNuñez.docx%20(1).pdf)
+
 
 ---
 
