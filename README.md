@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro Ortega  
 
-![Banner]([https://github.com/Alejandroortega2002/tu-repo/raw/main/banner.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkyenVza255MGtzMHo3cXZmODRocDZiMXphaWt5Z2p6ODN5ejFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)) <!-- Cambia el enlace por el de tu imagen -->
+![Banner][[https://github.com/Alejandroortega2002/tu-repo/raw/main/banner.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkyenVza255MGtzMHo3cXZmODRocDZiMXphaWt5Z2p6ODN5ejFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemkyenVza255MGtzMHo3cXZmODRocDZiMXphaWt5Z2p6ODN5ejFiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Cambia el enlace por el de tu imagen -->
 
 [![GitHub followers](https://img.shields.io/github/followers/Alejandroortega2002?label=Seguidores&style=social)](https://github.com/Alejandroortega2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-green?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandro-ortega-b20737249/)
