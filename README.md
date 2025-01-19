@@ -4,7 +4,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Alejandroortega2002?label=Seguidores&style=social)](https://github.com/Alejandroortega2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conéctate-green?style=flat&logo=linkedin)](https://www.linkedin.com/in/-alejandroortega/)
-[![Currículum](https://img.shields.io/badge/Currículum-Descargar-success?style=flat&logo=adobeacrobatreader)](https://github.com/Alejandroortega2002/cv/raw/main/Alejandro_Ortega_CV.pdf)
+[![Currículum](https://img.shields.io/badge/Currículum-Descargar-success?style=flat&logo=adobeacrobatreader)](https://github.com/Alejandroortega2002/Alejandroortega2002/raw/main/CV_AlejandroOrtegaNuñez.docx%20(1).pdf)
+
 
 ¡Bienvenid@ a mi perfil de GitHub! 🎉 Soy un desarrollador apasionado por construir aplicaciones web, móviles y soluciones de software innovadoras. Aquí encontrarás mis proyectos, donde combino diferentes tecnologías para resolver problemas y crear experiencias únicas.
 
